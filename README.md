@@ -1,9 +1,4 @@
-
-I'm a Student, a noob . I love Tech Stuffs.
-
- 
-- **Currently learning: C, C++, Java, etc**
-## Hello There :wave:, Welcome to my GitHub profile.
+### Hello There :wave:, Welcome to my GitHub profile.
 
 Let me introduce you about myself, my name is Riyansh; 17 y.o from India.
 
