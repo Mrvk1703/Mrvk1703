@@ -4,6 +4,14 @@ Let me introduce you about myself, my name is Riyansh; 17 y.o from India.
 
 
 
+<h1> <img src="https://github.com/Mrvk1703/Mrvk1703/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Mrvk1703/count.svg" />
+</p>
+
+
+
 ## Languages I'm Learning/Planning to Learn:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
